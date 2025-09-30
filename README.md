@@ -83,6 +83,6 @@ El proyecto incluye configuraciones especiales para:
 
 ## Contacto
 
-Gabriel Mejia - [GitHub](https://github.com/Gabriel120497)
+Gabriel Angel - [GitHub](https://github.com/Gabriel120497)
 
 Link del proyecto: [https://github.com/Gabriel120497/-hipertextual-cypress-test](https://github.com/Gabriel120497/-hipertextual-cypress-test)
